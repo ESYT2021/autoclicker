@@ -5,3 +5,6 @@ NOTE:
 
 Closing program from "X" button does no close project.
   Locate autoclicker from process list then close.
+
+#NOTE2
+  Form1.cs // semi incomplete
