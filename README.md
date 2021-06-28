@@ -8,3 +8,5 @@ Closing program from "X" button does no close project.
 
 #NOTE2
   Form1.cs // semi incomplete
+#NOTE3
+Revision 4 - Close functioning
