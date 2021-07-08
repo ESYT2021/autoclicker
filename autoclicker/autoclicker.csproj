@@ -7,7 +7,7 @@
     <ProjectGuid>{00DB0735-984F-4BA1-9886-19F05304C290}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>autoclicker</RootNamespace>
-    <AssemblyName>app3.0.1</AssemblyName>
+    <AssemblyName>DiscordCanary</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
