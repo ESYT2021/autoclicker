@@ -10,3 +10,8 @@ Closing program from "X" button does no close project.
   Form1.cs // semi incomplete
 #NOTE3
 Revision 4 - Close functioning
+
+
+
+07/07/21  
+  Added "Stealth Support" - Hides the autoclicker window and shows a fake Discord overlay instead.
