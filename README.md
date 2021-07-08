@@ -1,5 +1,5 @@
 # autoclicker
-currently working using Visual Studio 2019. To use run a build test via vs2019
+currently working using Visual Studio 2019. To use run a build test via VS
 
 NOTE:
 
