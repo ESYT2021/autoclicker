@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("app3.0.1")]
-[assembly: AssemblyDescription("Made By uni.esyt_#0558")]
+[assembly: AssemblyTitle("DiscordCanary")]
+[assembly: AssemblyDescription("Hidden Autoclicker - Discord Ver.0.1")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ac")]
+[assembly: AssemblyProduct("AClick")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
