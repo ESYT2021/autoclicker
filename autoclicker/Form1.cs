@@ -82,11 +82,11 @@ namespace autoclicker
             {
                 if (checkBox1.Checked)
                 {
-                    if (GetAsyncKeyState(Keys.F2) < 0)
+                    if (GetAsyncKeyState(Keys.F1) < 0)
                     {
                         Click = false;
                     }
-                    else if (GetAsyncKeyState(Keys.F3) < 0)
+                    else if (GetAsyncKeyState(Keys.F2) < 0)
                     {
                         Click = true;
                     }
