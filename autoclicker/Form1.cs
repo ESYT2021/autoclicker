@@ -42,7 +42,7 @@ namespace autoclicker
         {
             if (!int.TryParse(textBox1.Text, out parsedValue))
             {
-                MessageBox.Show("Imagine not knowing how to type a number... Follow the instructions....");
+                MessageBox.Show("Re-enter a number and try again with a valid integer.");
                 return;
 
             }
